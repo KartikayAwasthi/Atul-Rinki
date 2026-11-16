@@ -1,3 +1,7 @@
+# Atul-Rinki
+
+Bilingual (English / हिंदी) wedding invitation website for Atul & Rinki, with a downloadable PDF invitation.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
